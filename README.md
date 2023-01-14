@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<!-- - 🔭 I’m currently working on learning new tech stacks. (Golang) -->
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on backend projects.
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: https://sumon.com.bd
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 <!--
 **sumonbiswas2010/sumonbiswas2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
