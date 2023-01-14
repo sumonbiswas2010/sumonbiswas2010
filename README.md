@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on backend projects.
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: https://sumon.com.bd
+- 💬 Contact me at contact@sumon.com.bd
+- 📫 Welcome to my portfolio: https://sumon.com.bd
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!--
