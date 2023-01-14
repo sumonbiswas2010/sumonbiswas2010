@@ -7,7 +7,7 @@
 - 💬 Contact me at contact@sumon.com.bd
 - 📫 Welcome to my portfolio: https://sumon.com.bd
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Resume (Dark/Light Mode): https://sumon.com.bd/resume
 <!--
 **sumonbiswas2010/sumonbiswas2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
