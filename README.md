@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<a href="https://github.com/sumonbiswas2010"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub" alt="GitHub"></a>
-                            
-                            <a href="https://www.linkedin.com/in/sumonbiswas2010"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
+        <a href="https://www.linkedin.com/in/sumonbiswas2010"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://sumon.com.bd"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=portfolio" alt="Portfolio"></a>
                           
 </p>
