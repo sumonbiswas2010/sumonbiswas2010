@@ -38,3 +38,14 @@ Here are some ideas to get you started:
 	<a href="https://sumon.com.bd"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=portfolio" alt="Portfolio"></a>
                           
 </p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumonbiswas2010)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sumonbiswas2010&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumonbiswas2010&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonbiswas2010&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=sumonbiswas&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
