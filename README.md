@@ -1,4 +1,4 @@
-<a href="https://sumon.com.bd" target="_blank"><img src="https://i.ibb.co/K6fdM4Q/Screenshot-354.png"></img></a>
+<a href="https://sumon.com.bd" target="blank"><img src="https://i.ibb.co/K6fdM4Q/Screenshot-354.png"></img></a>
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on learning new tech stacks. (Golang) -->
