@@ -1,31 +1,117 @@
-<a href="https://sumon.com.bd" target="blank"><img src="https://i.ibb.co/K6fdM4Q/Screenshot-354.png"></a>
+# Hey, I'm Sumon 👋
 
-### Hey there 👋
+### Senior Software Engineer · AI · SaaS · Fintech · Shopify
 
-I’m a passionate full-stack engineer focused on building SaaS, AI-powered applications, and scalable microservice systems.  
-I love turning complex problems into simple, elegant solutions that empower businesses and users alike.
+I build production software from **architecture to deployment** — mostly full-stack systems, SaaS platforms, AI-powered products, fintech applications, and Shopify solutions.
 
-- 🔭 Currently exploring new opportunities.
-- 👯 Open to collaborating on backend-heavy or full-stack projects
-- 🌐 Portfolio: [sumon.com.bd](https://sumon.com.bd)
-- ⚡ Resume: [View here](https://sumon.com.bd/resume)
-- 💬 Contact me: contact@sumon.com.bd
+I enjoy solving complex engineering problems, designing systems that scale, and turning ideas into reliable products.
+
+---
+
+## What I Do
+
+* 🏗️ **System Architecture** — scalable monoliths, microservices, APIs, event-driven systems
+* 🤖 **AI Applications** — RAG, embeddings, vector search, AI agents, automation
+* 🚀 **SaaS & Fintech** — subscription systems, payment integrations, multi-tenant platforms
+* 🛍️ **Shopify** — public & custom Shopify apps, storefront integrations, Shopify Plus
+* ☁️ **Cloud & DevOps** — AWS, Docker, CI/CD, NGINX, infrastructure
+* ⚡ **Full-Stack Development** — TypeScript, Node.js, React, Next.js, PostgreSQL
+
+I prefer owning a product **end-to-end** — from database design and backend architecture to frontend, infrastructure, deployment, and ongoing optimization.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`JavaScript` `TypeScript` `Python` `Java` `SQL`
+
+**Frontend**
+
+`React` `Next.js` `Remix` `HTML` `CSS` `Tailwind`
+
+**Backend**
+
+`Node.js` `Express` `NestJS` `REST` `GraphQL`
+
+**Databases & Messaging**
+
+`PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ` `Vector Databases`
+
+**AI**
+
+`RAG` `Embeddings` `Vector Search` `AI Agents` `OpenAI`
+
+**Cloud & DevOps**
+
+`AWS` `GCP` `DigitalOcean` `Docker` `NGINX` `CI/CD`
+
+**Payments & Platforms**
+
+`Stripe` `PayPal` `Revolut` `Shopify` `Shopify Plus`
+
+---
+
+## Selected Work
+
+### 🧠 EmployeeEcho
+
+**AI-powered technical interview platform**
+
+A hiring platform where companies provide job descriptions and shortlisted candidates. EmployeeEcho handles invitations, interview scheduling, live AI-powered interviews, and candidate assessment based on job-specific intents.
+
+`Next.js` `Node.js` `PostgreSQL` `AI` `RAG` `ZeptoMail`
+
+→ https://employeeecho.tech
+
+---
+
+### 🛍️ Shopify Applications
+
+Built and deployed production Shopify applications used by real merchants, including tools for change tracking, storefront functionality, automation, and complex business workflows.
+
+Worked across Shopify APIs, webhooks, background processing, billing, storefront integrations, and Shopify Plus solutions.
+
+---
+
+### 💳 Fintech & Payment Platforms
+
+Built full-stack financial platforms and payment workflows integrating providers such as:
+
+`Stripe` · `PayPal` · `Revolut` · `SSLCOMMERZ` · `aamarPay` · `bKash`
+
+Focused on reliable transaction flows, distributed services, APIs, and scalable backend architecture.
+
+---
+
+## Engineering Philosophy
+
+> **Build simple systems that solve hard problems.**
+
+I care about more than just making software work.
+
+I think about:
+
+* How it behaves under load
+* How it fails
+* How it can be monitored
+* How it can be deployed safely
+* How the architecture evolves with the product
+* And how we can keep the system simple enough to maintain
+
+---
+
+## Let's Connect
+
+🌐 **Portfolio:** https://sumon.com.bd
+💼 **LinkedIn:** https://linkedin.com/in/sumonbiswas2010
+🐙 **GitHub:** https://github.com/sumonbiswas2010
+📄 **Resume:** https://sumon.com.bd/resume
+📧 **Email:** [contact@sumon.com.bd](mailto:contact@sumon.com.bd)
 
 ---
 
 <p align="center">
-	<a href="https://github.com/sumonbiswas2010"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/sumonbiswas2010"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://sumon.com.bd"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=portfolio" alt="Portfolio"></a>
+  <i>Building software, solving problems, learning continuously.</i>
 </p>
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sumonbiswas2010&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumonbiswas2010&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonbiswas2010&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sumonbiswas&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
