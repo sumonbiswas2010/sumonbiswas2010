@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer · AI · SaaS · Fintech · Shopify
 
-I build production software from **architecture to deployment** — mostly full-stack systems, SaaS platforms, AI-powered products, fintech applications, and Shopify solutions.
+I build production software from **architecture to deployment** - mostly full-stack systems, SaaS platforms, AI-powered products, fintech applications, and Shopify solutions.
 
 I enjoy solving complex engineering problems, designing systems that scale, and turning ideas into reliable products.
 
@@ -15,7 +15,7 @@ I enjoy solving complex engineering problems, designing systems that scale, and 
 * 🚀 **SaaS & Fintech** — subscription systems, payment integrations, multi-tenant platforms
 * 🛍️ **Shopify** — public & custom Shopify apps, storefront integrations, Shopify Plus
 * ☁️ **Cloud & DevOps** — AWS, Docker, CI/CD, NGINX, infrastructure
-* ⚡ **Full-Stack Development** — TypeScript, Node.js, React, Next.js, PostgreSQL
+* ⚡ **Full-Stack Development** — JavaScript, Node.js, React, Next.js, PostgreSQL
 
 I prefer owning a product **end-to-end** — from database design and backend architecture to frontend, infrastructure, deployment, and ongoing optimization.
 
@@ -73,6 +73,8 @@ Built and deployed production Shopify applications used by real merchants, inclu
 
 Worked across Shopify APIs, webhooks, background processing, billing, storefront integrations, and Shopify Plus solutions.
 
+→ https://apps.shopify.com/tag-change-detector
+
 ---
 
 ### 💳 Fintech & Payment Platforms
@@ -104,11 +106,15 @@ I think about:
 
 ## Let's Connect
 
-🌐 **Portfolio:** https://sumon.com.bd
+🌐 **Portfolio:** https://sumon.top
+
 💼 **LinkedIn:** https://linkedin.com/in/sumonbiswas2010
+
 🐙 **GitHub:** https://github.com/sumonbiswas2010
-📄 **Resume:** https://sumon.com.bd/resume
-📧 **Email:** [contact@sumon.com.bd](mailto:contact@sumon.com.bd)
+
+📄 **Resume:** https://sumon.top/resume
+
+📧 **Email:** [contact@sumon.top](mailto:contact@sumon.top)
 
 ---
 
