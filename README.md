@@ -1,6 +1,6 @@
 # Hey, I'm Sumon 👋
 
-### Senior Software Engineer · AI · SaaS · Fintech · Shopify
+### Senior Software Engineer | Full-Stack Engineering | AI, Fintech & Shopify Solutions | System Architecture
 
 I build production software from **architecture to deployment** - mostly full-stack systems, SaaS platforms, AI-powered products, fintech applications, and Shopify solutions.
 
