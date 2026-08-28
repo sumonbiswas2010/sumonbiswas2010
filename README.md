@@ -1,123 +1,78 @@
-# Hey, I'm Sumon 👋
+# Sumon Biswas
 
-### Senior Software Engineer | Full-Stack Engineering | SaaS, AI, Fintech & Shopify Solutions | System Architecture
+**Senior Software Engineer — Full-Stack Engineering | SaaS, AI, Fintech & Shopify | System Architecture**
 
-I build production software from **architecture to deployment** - mostly full-stack systems, SaaS platforms, AI-powered products, fintech applications, and Shopify solutions.
-
-I enjoy solving complex engineering problems, designing systems that scale, and turning ideas into reliable products.
+5 years building and owning production systems end-to-end — AI-powered SaaS, fintech platforms handling real-money international transactions, Shopify apps serving 50,000+ daily active users, and the AWS infrastructure (EC2, ECS, ECR, Lambda, RDS, S3, IAM) behind all of it.
 
 ---
 
 ## What I Do
 
-* 🏗️ **System Architecture** — scalable monoliths, microservices, APIs, event-driven systems
-* 🤖 **AI Applications** — RAG, embeddings, vector search, AI agents, automation
-* 🚀 **SaaS & Fintech** — subscription systems, payment integrations, multi-tenant platforms
-* 🛍️ **Shopify** — public & custom Shopify apps, storefront integrations, Shopify Plus
-* ☁️ **Cloud & DevOps** — AWS, Docker, CI/CD, NGINX, infrastructure
-* ⚡ **Full-Stack Development** — JavaScript, Node.js, React, Next.js, PostgreSQL
-
-I prefer owning a product **end-to-end** — from database design and backend architecture to frontend, infrastructure, deployment, and ongoing optimization.
+- **System Architecture** — microservices, event-driven systems, distributed backends, API design
+- **AI Engineering** — RAG pipelines, embeddings, vector search, LLM integrations, AI agents
+- **SaaS & Fintech** — multi-tenant platforms, payment integrations (Stripe, PayPal, Revolut), transaction and payout workflows
+- **Shopify** — public apps on the Shopify App Store, GraphQL/webhook integrations, merchant tooling
+- **Cloud & Infrastructure** — AWS (EC2, ECS, ECR, Lambda, RDS, S3, Route 53, IAM), Docker, CI/CD, NGINX
+- **Technical Leadership** — code review, system design, mentoring engineers
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Languages** `TypeScript` `JavaScript` `Python` `Java` `SQL`
 
-`JavaScript` `TypeScript` `Python` `Java` `SQL`
+**Frontend** `React` `Next.js` `Remix`
 
-**Frontend**
+**Backend** `Node.js` `Express` `NestJS` `REST` `GraphQL`
 
-`React` `Next.js` `Remix` `HTML` `CSS` `Tailwind`
+**Data & Messaging** `PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ` `Vector Databases`
 
-**Backend**
+**AI** `RAG` `Embeddings` `Vector Search` `OpenAI` `AI Agents`
 
-`Node.js` `Express` `NestJS` `REST` `GraphQL`
+**Cloud (AWS)** `EC2` `ECS` `ECR` `Lambda` `S3` `RDS` `Route 53` `IAM`
 
-**Databases & Messaging**
+**Infra** `Docker` `NGINX` `CI/CD` `GCP` `DigitalOcean`
 
-`PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ` `Vector Databases`
-
-**AI**
-
-`RAG` `Embeddings` `Vector Search` `AI Agents` `OpenAI`
-
-**Cloud & DevOps**
-
-`AWS` `GCP` `DigitalOcean` `Docker` `NGINX` `CI/CD`
-
-**Payments & Platforms**
-
-`Stripe` `PayPal` `Revolut` `Shopify` `Shopify Plus`
+**Payments** `Stripe` `PayPal` `Revolut` `SSLCOMMERZ` `aamarPay` `bKash`
 
 ---
 
 ## Selected Work
 
-### 🧠 EmployeeEcho
+### EmployeeEcho — AI Interview Platform
+AI-powered technical interview platform handling the full hiring loop: job/candidate intake, invitations, scheduling, live AI-run interviews, and candidate evaluation. Designed the AI interview algorithms and job-specific assessment workflows.
 
-**AI-powered technical interview platform**
-
-A hiring platform where companies provide job descriptions and shortlisted candidates. EmployeeEcho handles invitations, interview scheduling, live AI-powered interviews, and candidate assessment based on job-specific intents.
-
-`Next.js` `Node.js` `PostgreSQL` `AI` `RAG` `ZeptoMail`
-
+`Node.js` `Microservices` `PostgreSQL` `OpenAI` `ZeptoMail`
 → https://employeeecho.tech
 
----
+### ChangeLogger — Shopify Public App
+Published Shopify App Store application tracking changes across products, orders, collections, tags, and themes for merchant auditing. Built the webhook processing and GraphQL integrations powering it.
 
-### 🛍️ Shopify Applications
-
-Built and deployed production Shopify applications used by real merchants, including tools for change tracking, storefront functionality, automation, and complex business workflows.
-
-Worked across Shopify APIs, webhooks, background processing, billing, storefront integrations, and Shopify Plus solutions.
-
+`Remix` `PostgreSQL` `Shopify GraphQL`
 → https://apps.shopify.com/tag-change-detector
 
----
+### Revorium — Global Fintech Platform
+Backend services for a global fintech platform: real-time transfers, international payments, invoicing, and payouts. Transaction services run on AWS (ECS, RDS, IAM, SES), integrating Stripe, PayPal, and Revolut.
 
-### 💳 Fintech & Payment Platforms
+`Node.js` `Microservices` `Next.js` `Stripe` `PayPal` `Revolut`
 
-Built full-stack financial platforms and payment workflows integrating providers such as:
+### AdsPlanner — AI Ad Campaign Generation Platform
+SaaS platform that scrapes brand/product URLs via queued Puppeteer workers and uses AI to generate ad campaign images and copy. Designed the image-generation algorithms and S3-backed bulk media pipeline producing creatives at scale.
 
-`Stripe` · `PayPal` · `Revolut` · `SSLCOMMERZ` · `aamarPay` · `bKash`
-
-Focused on reliable transaction flows, distributed services, APIs, and scalable backend architecture.
+`Puppeteer` `RabbitMQ` `OpenAI` `PostgreSQL` `AWS S3`
 
 ---
 
 ## Engineering Philosophy
 
-> **Build simple systems that solve hard problems.**
-
-I care about more than just making software work.
-
-I think about:
-
-* How it behaves under load
-* How it fails
-* How it can be monitored
-* How it can be deployed safely
-* How the architecture evolves with the product
-* And how we can keep the system simple enough to maintain
+Build simple systems that solve hard problems. I think about how it behaves under load, how it fails, how it's monitored, how it deploys safely, and how it stays maintainable as it scales.
 
 ---
 
-## Let's Connect
+## Connect
 
-🌐 **Portfolio:** https://sumon.top
-
-💼 **LinkedIn:** https://linkedin.com/in/sumonbiswas2010
-
-🐙 **GitHub:** https://github.com/sumonbiswas2010
-
-📄 **Resume:** https://sumon.top/resume
-
-📧 **Email:** [contact@sumon.top](mailto:contact@sumon.top)
-
----
-
-<p align="center">
-  <i>Building software, solving problems, learning continuously.</i>
-</p>
+Portfolio: https://sumon.top
+LinkedIn: https://linkedin.com/in/sumonbiswas2010
+GitHub: https://github.com/sumonbiswas2010
+Resume: https://sumon.top/resume
+Email: contact@sumon.top
