@@ -1,247 +1,171 @@
 # Sumon Biswas
 
-### Senior Software Engineer · AI Product Builder · Systems Architect
+### Senior Software Engineer · Technical Lead · AI Product Builder
 
-I build products from idea to production.
+I design and ship AI, SaaS, fintech, Shopify, and business automation products from business requirements to production operations.
 
-My work sits at the intersection of **software engineering, product architecture, applied AI, SaaS, fintech, and technical leadership**. I enjoy taking ambiguous business problems, turning them into clear systems, and owning the path from architecture and implementation to cloud infrastructure and production operations.
+My work combines product direction, technical strategy, system architecture, hands-on engineering, and delivery leadership. I turn ambiguous problems into reliable systems that are useful to customers, maintainable for engineering teams, and practical to operate at scale.
 
-Over the last 5 years, I have worked on AI products, global payment systems, Shopify applications, distributed platforms, automation systems, and customer-facing SaaS products.
+Over the last five years, I have worked on AI-native products, payment platforms, Shopify applications, distributed systems, workflow automation, and customer-facing software for international users and distributed teams.
 
-Some outcomes from that work:
+Selected outcomes:
 
-- Built products serving **50,000+ daily active users**
-- Reduced operational coordination by **90% through AI automation**
-- Reduced cloud infrastructure cost by roughly **43%**
-- Built and operated products across international and distributed teams
-- Currently building **BizzNeo**, an AI customer engagement agent for businesses
+- Built and published Shopify products serving **50,000+ daily active users**
+- Reduced manual coordination time by **90%** through AI-powered workflow automation
+- Reduced cloud operating costs by approximately **43%** through architectural simplification
+- Owned production delivery across architecture, implementation, releases, and continuous improvement
+- Built products for AI customer engagement, hiring, advertising, commerce, and fintech
 
-[**Portfolio**](https://sumon.top) ·
-[**Resume**](https://sumon.top/resume) ·
-[**LinkedIn**](https://linkedin.com/in/sumonbiswas2010) ·
-[**Ask My AI**](https://sumon.top/ai)
+[Portfolio](https://sumon.top) · [Resume](https://sumon.top/resume) · [LinkedIn](https://linkedin.com/in/sumonbiswas2010) · [Ask My AI](https://sumon.top/ai)
 
 ---
 
-## What I Work On
+## Leadership and Engineering Focus
 
 ### Technical Leadership
 
-Product ownership, technical strategy, system architecture, end-to-end delivery, engineering mentorship, architecture reviews, code reviews, and cross-functional collaboration.
+Product ownership, technical strategy, architecture reviews, system design, end-to-end delivery, code reviews, team guidance, and collaboration across product and engineering disciplines.
 
 ### Applied AI
 
-LLM integrations, RAG, AI agents, vector search, workflow automation, prompt evaluation, AI-assisted development, and AI-native product experiences.
+LLM integration, retrieval-augmented generation, AI agents, workflow automation, prompt evaluation, knowledge retrieval, and AI-native product experiences across text, image, and voice.
 
-### Scalable Systems
+### Scalable Product Systems
 
-SaaS architecture, distributed systems, microservices, event-driven systems, APIs, asynchronous processing, real-time systems, reliability, and performance.
+SaaS architecture, distributed systems, microservices, event-driven architecture, API design, asynchronous processing, real-time systems, payments, and operational reliability.
 
-### Cloud & Delivery
+### Cloud and Delivery
 
-AWS, containerized workloads, CI/CD, infrastructure optimization, production operations, monitoring, deployment workflows, and cost optimization.
+AWS, DigitalOcean, Docker, CI/CD, GitHub Actions, production operations, deployment workflows, infrastructure simplification, and cost optimization.
 
 ---
 
 ## Current Focus
 
-I am increasingly focused on building **AI-native products**, not simply adding AI features to traditional software.
+I am focused on building AI-native products that understand context, take useful actions, and connect directly to real business operations.
 
-I am interested in systems where AI can understand context, take actions, interact naturally through text, voice, and images, automate workflows, and connect directly with real business operations.
+That means treating AI as part of the product and system design rather than as an isolated feature: grounding responses in business knowledge, designing reliable workflows around model output, and making the experience useful across the channels customers already use.
 
-That thinking is currently shaping my work on **BizzNeo**.
+This approach currently shapes my work on **BizzNeo**, an AI customer engagement platform for businesses.
 
 ---
 
-# Selected Products
+## Selected Products
 
-## BizzNeo: AI Customer Engagement Agent
+### BizzNeo · AI Customer Engagement Agent
 
 **Conversational AI · Omnichannel · Lead Automation**
 
-BizzNeo is an AI customer engagement system designed to become the interaction layer between businesses and their customers.
+[bizzneo.online](https://bizzneo.online)
 
-It learns from business websites, documents, products, services, policies, and other knowledge, then uses that context to interact naturally with customers.
+BizzNeo is an AI interaction layer that learns from a business's websites, documents, products, services, and policies, then helps customers discover, decide, and take action.
 
-It is designed to support:
+The platform is designed for:
 
-- Product and service discovery
 - Customer questions and recommendations
+- Product and service discovery
 - Lead qualification and capture
 - Ordering and scheduling workflows
 - Text, image, and voice interactions
 - Business workflow automation
 - Website, WhatsApp, Facebook, and Instagram experiences
 
-The goal is simple: instead of businesses maintaining disconnected customer channels and workflows, BizzNeo gives them one intelligent layer for customer interaction and automation.
+I work across the product architecture, conversational workflows, knowledge retrieval, integrations, and production delivery.
 
----
-
-## EmployeeEcho: AI Interview Platform
+### EmployeeEcho · AI Interview Platform
 
 **AI Hiring · Workflow Automation · Candidate Evaluation**
 
 [employeeecho.tech](https://employeeecho.tech)
 
-An AI-powered hiring platform covering the full interview workflow:
+An AI-powered interview platform covering candidate intake, invitations, scheduling, reminders, live interviews, job-specific assessments, structured evaluation, and hiring workflows.
 
-- Job and candidate intake
-- Candidate invitations
-- Scheduling and reminders
-- Live AI interviews
-- Job-specific assessments
-- Structured candidate evaluation
-- Authentication and OTP workflows
-- Interview authenticity checks
+My work included product architecture, AI assessment workflows, automated communication, response caching, and camera-image verification.
 
-I worked on the product architecture, AI assessment workflows, backend systems, response caching, automated communication, and camera-image verification.
+### ChangeLogger · Shopify Public App
 
----
+**Shopify SaaS · Store Auditing · Event Tracking**
 
-## ChangeLogger: Shopify Public App
+[View on the Shopify App Store](https://apps.shopify.com/tag-change-detector)
 
-**Shopify SaaS · Event Tracking · Store Auditing**
+A production Shopify application that gives merchants searchable visibility into changes across products, orders, collections, tags, themes, and other store resources.
 
-[View on Shopify App Store](https://apps.shopify.com/tag-change-detector)
+The system combines Shopify webhooks and GraphQL integrations to capture events and maintain an operational audit trail.
 
-A production Shopify application that gives merchants a searchable history of changes across their stores.
-
-It tracks activity across:
-
-- Products
-- Orders
-- Collections
-- Tags
-- Themes
-- Other Shopify resources
-
-The system uses Shopify webhooks and GraphQL integrations to capture events in real time and maintain an audit trail for operational visibility.
-
----
-
-## Revorium: Global Fintech Platform
+### Revorium · Global Fintech Platform
 
 **Fintech · Payments · Distributed Systems**
 
 [Revorium](https://ee.linkedin.com/company/revorium)
 
-Worked on backend systems for a global fintech product supporting:
+Backend services for a global fintech platform supporting wallet transfers, international payments, escrow, invoicing, payouts, refunds, and asynchronous transaction workflows across multiple payment providers.
 
-- Wallet transfers
-- International payments
-- Escrow
-- Invoicing
-- Payouts
-- Payment provider integrations
-- Transaction and refund workflows
-
-The platform integrated multiple payment providers including Stripe, PayPal, and Revolut while maintaining consistent financial workflows across providers.
-
----
-
-## AdsPlanner: AI Campaign Generation Platform
+### AdsPlanner · AI Campaign Generation Platform
 
 **Generative AI · Automation · Asynchronous Processing**
 
 [adsplanner.ai](https://adsplanner.ai)
 
-An AI SaaS platform that turns websites and product information into advertising campaigns.
+An AI SaaS platform that transforms website and product information into campaign strategies, advertising copy, and visual concepts. I worked on the architecture, content extraction, queued processing, AI generation workflows, and media processing.
 
-The system extracts brand and product context, processes workloads asynchronously, and generates advertising copy and visual concepts across different platforms and formats.
-
-I worked on the architecture, queued processing, content extraction, AI generation workflows, and large-scale media processing.
-
----
-
-## sumon.top: Portfolio + Personal AI
+### sumon.top · Portfolio and Personal AI
 
 **Next.js · AI · Product Experimentation**
 
 [sumon.top](https://sumon.top) · [Ask My AI](https://sumon.top/ai)
 
-My portfolio is also an AI product experiment.
-
-Instead of a static portfolio, visitors can ask questions about my experience, projects, skills, availability, and technical work.
-
-The AI uses structured career data as its source of truth and includes:
-
-- Streaming responses
-- Conversation history
-- Rate limiting
-- Intent handling
-- Meeting workflows
-- Admin tools
-- Feedback collection
+My portfolio includes an AI experience that answers questions about my work using structured career data as its source of truth. It includes streaming responses, conversation history, rate limiting, intent handling, meeting workflows, admin tools, and feedback collection.
 
 ---
 
-# Engineering Toolbox
+## Technology
 
-### Languages
+**Languages:** TypeScript, JavaScript, SQL
 
-`TypeScript` `JavaScript` `Python` `Java` `SQL`
+**Core stack:** Node.js, React, Next.js, PostgreSQL, Redis, Kafka, RabbitMQ, GraphQL
 
-### Backend
+**Architecture:** SaaS, distributed systems, microservices, event-driven architecture, API design, asynchronous workflows
 
-`Node.js` `Express` `NestJS` `REST APIs` `GraphQL`
+**Applied AI:** LLM integration, RAG, embeddings, vector search, AI agents, prompt evaluation, workflow automation
 
-### Frontend
+**Cloud and DevOps:** AWS (ECS, ECR, Lambda, RDS, S3), DigitalOcean, Docker, NGINX, CI/CD, GitHub Actions
 
-`React` `Next.js` `Remix`
-
-### Data & Messaging
-
-`PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ` `Vector Databases`
-
-### AI
-
-`LLM Integration` `RAG` `Embeddings` `Vector Search` `AI Agents` `OpenAI`
-
-### Cloud & Infrastructure
-
-`AWS ECS` `ECR` `Lambda` `RDS` `S3` `IAM` `DigitalOcean` `Docker` `NGINX` `CI/CD`
-
-### Payments & Commerce
-
-`Stripe` `PayPal` `Revolut` `Shopify` `SSLCOMMERZ` `aamarPay` `bKash`
+**Commerce and payments:** Shopify, Stripe, PayPal, Revolut, SSLCOMMERZ, aamarPay, bKash
 
 ---
 
-# How I Think About Engineering
+## Engineering Principles
 
-I prefer simple systems that solve real problems.
+I prefer simple systems that solve real problems and clear decisions that help teams move with confidence.
 
-Before calling a system production-ready, I usually want answers to a few questions:
+When designing a production system, I care about:
 
-- What happens when usage increases significantly?
-- What happens when part of the system fails?
-- How quickly will we know something failed?
-- Can we deploy safely without unnecessary downtime?
-- Can another engineer understand and change the system later?
-- Are we solving the actual business problem or only the technical one?
-- Can AI or automation remove unnecessary human work here?
+- Whether the architecture supports the product's actual business goals
+- How the system behaves as usage and complexity increase
+- What happens when dependencies or individual components fail
+- How quickly the team can detect, understand, and recover from problems
+- Whether deployments are safe and repeatable
+- Whether another engineer can understand and change the system later
+- Where automation can remove unnecessary human work
 
-Architecture should create leverage, not complexity.
-
-Technology is useful when it helps a product become **simpler, faster, more scalable, more intelligent, or more valuable to its users**.
+Good architecture creates leverage. Technology is valuable when it makes a product simpler, faster, more scalable, more intelligent, or more useful to its customers.
 
 ---
 
-# Education
+## Education
 
 **B.Sc. in Computer Science & Engineering**  
 Green University of Bangladesh  
-2018 – 2022 · CGPA: **3.53 / 4.00**
+2018–2022 · CGPA: **3.53 / 4.00**
 
 ---
 
-# Let's Connect
+## Connect
 
-I am interested in **senior engineering, technical leadership, AI product, architecture, and product-building opportunities**, along with selective consulting and collaboration.
+I am open to senior engineering, technical leadership, AI product, architecture, and product-building opportunities, along with selective consulting and collaboration.
 
 - **Portfolio:** [sumon.top](https://sumon.top)
 - **Resume:** [sumon.top/resume](https://sumon.top/resume)
-- **AI:** [sumon.top/ai](https://sumon.top/ai)
 - **LinkedIn:** [linkedin.com/in/sumonbiswas2010](https://linkedin.com/in/sumonbiswas2010)
 - **GitHub:** [github.com/sumonbiswas2010](https://github.com/sumonbiswas2010)
 - **Email:** [contact@sumon.top](mailto:contact@sumon.top)
